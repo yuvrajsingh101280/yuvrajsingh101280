@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuvrajsingh101280
 - 👀 I’m interested in buliding web applications
-- 🌱 I’m currently learning Node Js
+  
 
 
 <!---
