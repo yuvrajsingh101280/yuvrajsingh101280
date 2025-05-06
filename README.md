@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 ---
 
 ## 📊 GitHub Stats
-![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajsingh101280&show_icons=true&theme=dark)
+![Yuvraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuvrajsingh101280&show_icons=true&theme=dark&cache_seconds=30)
 
 ---
 
